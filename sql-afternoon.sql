@@ -10,7 +10,7 @@ CREATE TABLE person
 INSERT INTO person
     (name, age, height, city, favorite_color )
 VALUES
-    ( 'Dirk Nowitzki', 41, 213.36, 'Dallas', 'black');
+    ( 'Penny Hardaway', 43, 213.36, 'Memphis', 'blue');
 INSERT INTO person
     (name, age, height, city, favorite_color )
 VALUES
@@ -26,7 +26,7 @@ VALUES
 INSERT INTO person
     (name, age, height, city, favorite_color )
 VALUES
-    ( 'Kobe Bryant', 39, 204.22, 'Philadelphia', 'gold');
+    ( 'Tim Duncan', 39, 204.22, 'VirginIslands', 'silver');
 
 SELECT *
 FROM person
